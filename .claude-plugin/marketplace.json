@@ -1,0 +1,19 @@
+{
+  "name": "appliedsyntax",
+  "owner": {
+    "name": "AppliedSyntax"
+  },
+  "metadata": {
+    "description": "AppliedSyntax plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "dotspec",
+      "source": {
+        "source": "github",
+        "repo": "AppliedSyntax/dotspec"
+      },
+      "description": "Architectural specification framework — .spec/ folders that give AI agents full project context"
+    }
+  ]
+}
